@@ -1,0 +1,148 @@
+nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding-top: 15px;
+    height: 50px;
+  }
+  
+  nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+  }
+
+  .top-links {
+    display: inline-block;
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+  }
+  
+  .top-links li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+
+  header{
+    color: White;
+    Background-color: rgb(32, 101, 136);
+  }
+
+  .header1 li{
+    display: inline-block;
+    float: left;
+    text-decoration: none;
+    padding: 0;
+
+  }
+
+  .header1 li a{
+      color: white;
+      text-decoration: none;
+  }
+
+  .searchbar{
+      background-color: rgb(31, 82, 111);
+  }
+
+  .header2{
+      width: 100%;
+      position: center;
+      margin: 0 auto;
+      background-image: url(images/city-scape.svg) ;
+  }
+
+  .header2-text{
+      width: 300px;
+      color: white;
+      padding: 10px;
+  }
+
+  .header2-image{
+      float: right;
+  }
+
+  .button-header2{
+    color: white;
+    background-color: rgb(240, 146, 51);
+    margin: 20px 20px 20px 0px;
+  }
+
+  .collaboration{
+      background-color: rgb(39, 53, 71);
+  }
+
+  .collaboration img{
+      width: 400px;
+      height: auto;
+      float: left;
+      padding: 40px 0px 40px 40px;
+  }
+
+  .collaboration-text{
+      color: white;
+      margin: 0px auto;
+      padding: 10px;
+      width: 300px;
+      height: auto;
+  }
+
+  .collaboration-text button{
+      background-color: rgb(203, 56, 55);
+      color: white;
+  }
+
+.clearfix{
+    clear: both;
+}
+
+.collaboration-container{
+    position: center;
+    margin: 20px;
+
+}
+
+.section2{
+    margin:0px auto;
+    background-image: url(images/forklift.svg);
+    background-size: cover;
+    color: white;
+    position: relative;
+    height: 500px;
+
+}
+
+.section2-text{
+    width: 300px;
+    padding: 40px;
+}
+
+.section2-text button{
+    background-color: rgb(49, 68, 88);
+    color: white;
+}
+
+.section3-text{
+    margin: 0 auto;
+    text-align: center;
+    color: rgb(83, 88, 98);
+
+}
+
+.section3-colums{
+    margin: 0 auto;
+
+}
+
+.section3-colums-div{
+    width: 32%;
+    float: left;
+    text-align: center;
+    padding: 5px;
+    color: rgb(135, 145, 156);
+
+}
+
+.section3-colums-div a{
+    color: rgb(208, 74, 73);
+    text-decoration: none;
+}
